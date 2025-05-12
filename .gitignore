@@ -1,0 +1,9 @@
+#virtual environment
+.venv/
+
+#python bytecode
+__pychace__/
+*.py[code]
+
+#ML model files
+*.pkl
